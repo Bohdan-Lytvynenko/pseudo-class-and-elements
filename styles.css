@@ -15,6 +15,12 @@ a:link {
 a:visited {
     color: green;
 }
+.input_focus:focus {
+background-color: red;
+}
+.input_focus_pocus:focus {
+    background-color: green;
+}
 
 a:hover {
     color: orange;
